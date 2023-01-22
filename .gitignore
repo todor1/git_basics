@@ -1,1 +1,3 @@
 secrets.txt
+
+### rm -rf .git #-> removes removes git entirely from our project
